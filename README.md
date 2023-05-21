@@ -1,2 +1,3 @@
-# ACI-Table
-AutoCAD Color Index from AutoCAD 2024.
+# AutoCAD颜色值对应RGB列表（取自AutoCAD 2024）
+目前的网络上流传的ACI对应RGB值或多或少有点小小的偏差，现在通过AutoCAD 2024的颜色选择对话框，重新梳理了一遍，用来重新制作ArcGIS的颜色样式库，以弥补ArcGIS默认的颜色选择器缺少标准AutoCAD颜色值的问题。
+表格采用开源ODS格式，可以直接用LibreOffice套件打开，而无需安装M$ Ofiice。
